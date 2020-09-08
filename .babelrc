@@ -1,0 +1,7 @@
+/* indicará el babel-loaderuso envy los reactajustes preestablecidos (que son solo complementos) al convertir ES6 a ES5 */
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
